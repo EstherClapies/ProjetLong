@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.008" height="102.009" viewBox="0 0 102.008 102.009">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.128" x2="0.84" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect x="41" width="61.009" height="80.009" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_248" data-name="Groupe 248" transform="translate(-62.493 -403.834)">
+    <rect id="Rectangle_1165" data-name="Rectangle 1165" width="102.008" height="102.008" rx="18" transform="translate(62.493 403.834)" fill="url(#linear-gradient)"/>
+    <path id="youtube" d="M27.853,37.657v-17.6l16.922,8.833-16.922,8.77Zm37.165-20.65s-.61-4.32-2.491-6.221A8.964,8.964,0,0,0,56.25,8.135C47.486,7.5,34.335,7.5,34.335,7.5H34.31s-13.149,0-21.915.633a8.964,8.964,0,0,0-6.277,2.652c-1.879,1.9-2.491,6.221-2.491,6.221A94.769,94.769,0,0,0,3,27.145V31.9a94.821,94.821,0,0,0,.626,10.14s.61,4.316,2.491,6.219c2.381,2.5,5.513,2.416,6.908,2.677,5.012.478,21.3.626,21.3.626s13.166-.019,21.93-.652a8.961,8.961,0,0,0,6.277-2.652c1.879-1.9,2.491-6.219,2.491-6.219a94.821,94.821,0,0,0,.626-10.14V27.145a94.718,94.718,0,0,0-.626-10.14Z" transform="translate(79.17 425.309)" fill="#fff" fill-rule="evenodd"/>
+    <g id="Groupe_défilant_25" data-name="Groupe défilant 25" transform="translate(62.492 403.834)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Rectangle_196" data-name="Rectangle 196" fill="none" stroke="#000" stroke-width="8">
+        <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+        <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

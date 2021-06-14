@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.008" height="102.009" viewBox="0 0 102.008 102.009">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.128" x2="0.84" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect x="52" width="50.009" height="44.009" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_247" data-name="Groupe 247" transform="translate(-210.496 -403.834)">
+    <rect id="Rectangle_1166" data-name="Rectangle 1166" width="102.008" height="102.008" rx="18" transform="translate(210.496 403.834)" fill="url(#linear-gradient)"/>
+    <path id="twitch" d="M23.942,13.006V26.012H19.6V13.006h4.346Zm11.928,0V26.012H31.525V13.006h4.346Zm0,22.776,7.583-7.612V4.346H7.668V35.784h9.77v6.5l6.5-6.5H35.871ZM47.8,0V30.359L34.792,43.365h-9.77l-6.5,6.5h-6.5v-6.5H.087V8.661L3.353,0Z" transform="translate(238.107 434.713)" fill="#fff"/>
+    <g id="Groupe_défilant_17" data-name="Groupe défilant 17" transform="translate(210.496 403.835)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Rectangle_170" data-name="Rectangle 170" fill="none" stroke="#000" stroke-width="8">
+        <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+        <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

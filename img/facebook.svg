@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.009" height="102.009" viewBox="0 0 102.009 102.009">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.094" y1="0.081" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_243" data-name="Groupe 243" transform="translate(-62.492 -107.754)">
+    <path id="Tracé_140" data-name="Tracé 140" d="M18,0H84.008a18,18,0,0,1,18,18V84.008a18,18,0,0,1-18,18H18a18,18,0,0,1-18-18V18A18,18,0,0,1,18,0Z" transform="translate(62.492 107.754)" fill="#fff"/>
+    <path id="facebook-rect" d="M18.625,0A18.586,18.586,0,0,0,0,18.625V83.381a18.586,18.586,0,0,0,18.625,18.625h35.1V62.129H43.178V47.771H53.722V35.5c0-9.637,6.231-18.486,20.583-18.486a86.967,86.967,0,0,1,10.107.558l-.337,13.408s-4.384-.043-9.164-.043c-5.177,0-6,2.386-6,6.344V47.771H84.489l-.68,14.358h-14.9v39.88H83.384a18.586,18.586,0,0,0,18.625-18.625V18.625A18.586,18.586,0,0,0,83.384,0Z" transform="translate(62.492 107.754)" fill="url(#linear-gradient)"/>
+    <g id="Rectangle_386" data-name="Rectangle 386" transform="translate(62.492 107.754)" fill="none" stroke="#000" stroke-width="8">
+      <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+      <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+    </g>
+  </g>
+</svg>

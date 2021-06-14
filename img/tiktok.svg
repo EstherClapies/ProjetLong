@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.008" height="103.009" viewBox="0 0 103.008 103.009">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.128" x2="0.84" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect x="52" width="50.009" height="81.009" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="50" width="53.008" height="102.008" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect y="66" width="103.008" height="37.008" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_245" data-name="Groupe 245" transform="translate(-62.441 -255.59)">
+    <rect id="Rectangle_165" data-name="Rectangle 165" width="102.008" height="102.008" rx="18" transform="translate(62.492 255.59)" fill="url(#linear-gradient)"/>
+    <path id="tiktok" d="M27.059.045C30.013,0,32.944.023,35.875,0A14.044,14.044,0,0,0,39.82,9.4c2.525,2.5,6.088,3.653,9.56,4.036v9.086a24.133,24.133,0,0,1-9.469-2.187,27.856,27.856,0,0,1-3.653-2.1c-.023,6.584.023,13.167-.045,19.728a17.221,17.221,0,0,1-3.044,8.883,16.8,16.8,0,0,1-13.325,7.237,16.44,16.44,0,0,1-9.2-2.322A17,17,0,0,1,2.416,38.892c-.045-1.127-.068-2.255-.023-3.359A16.974,16.974,0,0,1,22.076,20.472c.045,3.337-.09,6.674-.09,10.011a7.736,7.736,0,0,0-9.875,4.78,8.944,8.944,0,0,0-.316,3.63,7.673,7.673,0,0,0,7.891,6.471,7.575,7.575,0,0,0,6.245-3.63,5.2,5.2,0,0,0,.924-2.39c.225-4.036.135-8.049.158-12.085.023-9.086-.023-18.15.045-27.213Z" transform="translate(87.621 280.871)" fill="#fff"/>
+    <g id="Groupe_défilant_24" data-name="Groupe défilant 24" transform="translate(62.443 255.59)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Rectangle_195" data-name="Rectangle 195" fill="none" stroke="#0082ff" stroke-width="8">
+        <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+        <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_défilant_26" data-name="Groupe défilant 26" transform="translate(62.441 255.59)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+      <g id="Rectangle_193" data-name="Rectangle 193" fill="none" stroke="#000" stroke-width="8">
+        <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+        <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_défilant_27" data-name="Groupe défilant 27" transform="translate(62.441 255.59)" clip-path="url(#clip-path-3)" style="isolation: isolate">
+      <g id="Rectangle_267" data-name="Rectangle 267" fill="none" stroke="#000" stroke-width="8">
+        <rect width="102.008" height="102.008" rx="18" stroke="none"/>
+        <rect x="4" y="4" width="94.008" height="94.008" rx="14" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
