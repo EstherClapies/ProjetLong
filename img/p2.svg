@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.896" height="65.056" viewBox="0 0 64.896 65.056">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.128" x2="0.84" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect x="57" y="60" width="45.009" height="6.009" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect x="70" width="32.009" height="31.009" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_255" data-name="Groupe 255" transform="translate(-155.052 -555.48)">
+    <rect id="Rectangle_1218" data-name="Rectangle 1218" width="64.896" height="64.896" rx="11" transform="translate(155.052 555.641)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_défilant_62" data-name="Groupe défilant 62" transform="translate(117.69 518.527)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="Rectangle_1219" data-name="Rectangle 1219" fill="none" stroke="#000" stroke-width="6">
+        <rect width="102.008" height="102.008" rx="11" stroke="none"/>
+        <rect x="3" y="3" width="96.008" height="96.008" rx="8" fill="none"/>
+      </g>
+    </g>
+    <g id="Groupe_défilant_63" data-name="Groupe défilant 63" transform="translate(117.69 555.48)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+      <g id="Rectangle_1220" data-name="Rectangle 1220" fill="none" stroke="#000" stroke-width="6">
+        <rect width="102.008" height="102.008" rx="11" stroke="none"/>
+        <rect x="3" y="3" width="96.008" height="96.008" rx="8" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

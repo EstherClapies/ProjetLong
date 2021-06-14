@@ -1,4 +1,10 @@
-body {display: flex};
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+
+body {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
 
 
 .Icon {
@@ -99,4 +105,26 @@ body {display: flex};
     bottom: 0;
     width: 100vw;
     background-color: red;
+
+}
+  /* Entete principale */
+
+  .main-header {
+    font-family: 'Space Grotesk', sans-serif;
+    display: flex;
+    width: 100vw;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,.3);
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+  }
+
+  .main-header-title {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    margin: auto;
+  }
+
+  .main-header-back {
+    margin-right: auto
   }

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="208" height="25" viewBox="0 0 208 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef6eb3"/>
+      <stop offset="1" stop-color="#406cff"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_267" data-name="Groupe 267" transform="translate(970 8348)">
+    <rect id="Rectangle_1504" data-name="Rectangle 1504" width="134" height="25" rx="3" transform="translate(-970 -8348)" fill="#f8f8f8"/>
+    <rect id="Rectangle_1503" data-name="Rectangle 1503" width="104" height="25" rx="3" transform="translate(-866 -8348)" fill="url(#linear-gradient)"/>
+    <text id="Tops" transform="translate(-830 -8330)" fill="#fff" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Tops</tspan></text>
+    <text id="Abonnements" transform="translate(-964 -8330)" font-size="14" font-family="Inter-SemiBold, Inter" font-weight="600"><tspan x="0" y="0">Abonnements</tspan></text>
+  </g>
+</svg>
