@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.896" height="64.896" viewBox="0 0 64.896 64.896">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="64.896" height="64.896" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.128" x2="0.84" y2="0.904" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d84ef"/>
+      <stop offset="1" stop-color="#ef6eb3"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_265" data-name="Groupe 265" transform="translate(-50 8319.896)">
+    <g id="Grille_de_répétition_11" data-name="Grille de répétition 11" transform="translate(50 -8319.896)" clip-path="url(#clip-path)">
+      <g transform="translate(-28.052 -174.15)">
+        <rect id="Rectangle_1241" data-name="Rectangle 1241" width="64.896" height="64.896" rx="11" transform="translate(28.052 174.15)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Polygone_68" data-name="Polygone 68" d="M13.893,4.583a3,3,0,0,1,5.215,0L30.449,24.516A3,3,0,0,1,27.842,29H5.158a3,3,0,0,1-2.607-4.484Z" transform="translate(96.948 -8303.948) rotate(90)"/>
+  </g>
+</svg>
