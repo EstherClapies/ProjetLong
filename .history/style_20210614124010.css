@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+
+body {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+
+
+.Icon {
+    background-color:  black;
+    display: flex;
+    align-self: flex-start; 
+    /* voir le html  */
+}
+
+.button {
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+    border: none;
+    cursor: pointer;
+    padding: 25%;
+    min-width: 25%;
+    max-width: 25%;
+    margin: 0 auto 50px;
+    position: relative;
+    font-weight: 700;
+    font-size: 1.47rem;
+    /* les boutons n'apparaissent pas mais le bouton instagram est fonctionnel ==>  il amène à la bonne page */
+  }
+  
+
+
+  .instagram {
+    background:transparent;
+    /* box-shadow: 0 3px 6px rgba(235, 25, 110, 1),0 3px 6px rgba(235, 25, 110, 0.23) ; */
+    /* position: relative; */
+    border-radius: .3rem;
+    transition: .2s all ease-in-out;
+    padding: 2rem;
+    transition: all 2s;
+    margin-right: 2rem;
+  }
+
+  .instagram:hover {
+    border-radius: 20px;
+  }
+
+  .tabbar-icons {
+    padding: 0;
+    list-style: none;
+    margin: 1.2em;
+  }
+  
+  .tabbar-icons li {
+    display: inline-block;
+    margin: 0.15em;
+    position: relative;
+    font-size: 1.7em;
+  }
+  
+  .tabbar-icons i {
+    color: #fff;
+    position: absolute;
+    top: 0.45em;
+    left: 0.60em;
+    transition: all 265ms ease-out;
+  }
+  
+  .tabbar-icons a {
+    display: inline-block;
+  }
+  
+  .tabbar-icons a:before {
+    transform: scale(1);
+    -ms-transform: scale(1);
+    -webkit-transform: scale(1);
+    content: " ";
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: block;
+    background: linear-gradient(45deg, #ff003c, #c648c8);
+    transition: all 265ms ease-out;
+  }
+  
+  .tabbar-icons a:hover:before {
+    transform: scale(0);
+    transition: all 265ms ease-in;
+  }
+  
+  .tabbar-icons a:hover i {
+    transform: scale(2.2);
+    -ms-transform: scale(2.2);
+    -webkit-transform: scale(2.2);
+    color: #ff003c;
+    background: -webkit-linear-gradient(45deg, #ff003c, #c648c8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 265ms ease-in;
+  }
+  .frame {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    background-color: red;
+
+}
+  /* Entete principale */
+
+  .main-header {
+    font-family: 'Space Grotesk', sans-serif;
+    display: flex;
+    width: 100vw;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,.3);
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+  }
+
+  .main-header-title {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    margin: auto;
+  }
+
+  .main-header-back {
+    margin-right: auto
+  }
