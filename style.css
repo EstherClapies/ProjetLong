@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
   display: flex;
@@ -14,6 +15,14 @@ body {
     /* voir le html  */
 }
 
+.titre {
+  font-family: 'PT Sans', sans-serif ;
+  margin-top: 40px;
+  font-size: 1.5em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
 .button {
     display:flex;
     justify-content: space-around;
@@ -27,16 +36,15 @@ body {
     position: relative;
     font-weight: 700;
     font-size: 1.47rem;
-    /* les boutons n'apparaissent pas mais le bouton instagram est fonctionnel ==>  il amène à la bonne page */
   }
   
 
 
-  .instagram {
+  /* .instagram {
     background:transparent;
     /* box-shadow: 0 3px 6px rgba(235, 25, 110, 1),0 3px 6px rgba(235, 25, 110, 0.23) ; */
     /* position: relative; */
-    border-radius: .3rem;
+    /* border-radius: .3rem;
     transition: .2s all ease-in-out;
     padding: 2rem;
     transition: all 2s;
@@ -45,7 +53,8 @@ body {
 
   .instagram:hover {
     border-radius: 20px;
-  }
+  } */ */
+
 
   .frame {
     position: fixed;
