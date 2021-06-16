@@ -32,11 +32,11 @@ body {
   
 
 
-  .instagram {
+  /* .instagram {
     background:transparent;
     /* box-shadow: 0 3px 6px rgba(235, 25, 110, 1),0 3px 6px rgba(235, 25, 110, 0.23) ; */
     /* position: relative; */
-    border-radius: .3rem;
+    /* border-radius: .3rem;
     transition: .2s all ease-in-out;
     padding: 2rem;
     transition: all 2s;
@@ -45,7 +45,8 @@ body {
 
   .instagram:hover {
     border-radius: 20px;
-  }
+  } */ */
+
 
   .frame {
     position: fixed;
