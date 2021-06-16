@@ -97,7 +97,7 @@ body {
   body {
       font-family: "Inter", sans-serif;
       color: #303030;
-      background-color: mix(#d6ef43, #342ead, 95%);
+      background-color: mix(#fff, #342ead, 95%);
   }
   
   .menu {
@@ -128,7 +128,7 @@ body {
   
           .menu-item-label {
               color: #342ead;
-            
+      
           }
       }
   }
