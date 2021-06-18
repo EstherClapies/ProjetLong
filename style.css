@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  display: flex;
+  /*display: flex; Je ne sais pas pour vous mais moi jarive pas a travailler avec ça activé */
   padding: 0;
   margin: 0;
 }
@@ -37,13 +37,22 @@ body {
     font-weight: 700;
     font-size: 1.47rem;
   }
-  
-  .p {
-    align-items: left;
+  .insta_catégorie {
+  margin-top: 4rem;  
+  }
+  .catégorie { 
     display: inline;
+  }
   
+  .catégorie_sous-catégorie { 
+    display: inline;
+    margin-left: 1rem;
   }
 
+  .o {
+    vertical-align: baseline;
+  margin: 1rem;
+  }
 
   /* .instagram {
     background:transparent;
