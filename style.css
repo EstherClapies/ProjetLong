@@ -6,7 +6,17 @@ body {
   padding: 0;
   margin: 0;
 }
-
+.icone-module {
+  display: inline;
+  padding: 1rem;
+  
+}
+.icone-module1 {
+  display: inline;
+  padding: 1rem;
+  
+  
+}
 
 .Icon {
     background-color:  black;
@@ -37,8 +47,13 @@ body {
     font-weight: 700;
     font-size: 1.47rem;
   }
-  .insta_catégorie {
-  margin-top: 4rem;  
+
+  .icones_groupe {
+    margin-top: 4rem;  
+  }
+
+  .espacement_module {
+  margin-top: 0rem;  
   }
   .catégorie { 
     display: inline;
