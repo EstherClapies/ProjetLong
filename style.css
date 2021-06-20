@@ -222,4 +222,8 @@ body {
       color: mix(#fff, #342ead, 70%);
       transition: 0.25s ease;
   }
+
+  .grid-container {
+    display: block;
+  }
   
