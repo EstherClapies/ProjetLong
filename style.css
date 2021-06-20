@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  /*display: flex; Je ne sais pas pour vous mais moi jarive pas a travailler avec ça activé */
   padding: 0;
   margin: 0;
 }
@@ -50,7 +49,7 @@ body {
   .br{
     margin: 0px;
   }
-  
+
   .Description {
     margin: 10px;
   }
