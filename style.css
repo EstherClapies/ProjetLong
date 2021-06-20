@@ -11,12 +11,7 @@ body {
   padding: 1rem;
   
 }
-.icone-module1 {
-  display: inline;
-  padding: 1rem;
-  
-  
-}
+
 
 .Icon {
     background-color:  black;
@@ -49,24 +44,63 @@ body {
   }
 
   .icones_groupe {
-    margin-top: 4rem;  
+    padding: 1rem;  
   }
 
-  .espacement_module {
-  margin-top: 0rem;  
-  }
-  .catégorie { 
-    display: inline;
+  .br{
+    margin: 0px;
   }
   
-  .catégorie_sous-catégorie { 
-    display: inline;
-    margin-left: 1rem;
+  .Description {
+    margin: 10px;
   }
 
-  .o {
-    vertical-align: baseline;
-  margin: 1rem;
+  .Hastag {
+    margin: 5px;
+  }  
+  
+  .Heure {
+    margin: 12px;
+  }  
+  
+  .Commentaire {
+    margin: 4px;
+  }  
+  
+
+  .Filtres {
+    margin: 55px;
+  }  
+  
+  .Partage {
+    margin: -20px;
+  }  
+  
+  .Musique {
+    margin: 3px;
+  }  
+  
+  .Lien {
+    margin: 37px;
+  }  
+  
+  .Partenaria {
+    margin: -3px;
+  }  
+  
+  .catégorie { 
+    display: inline;
+    margin: 3%;
+  }
+
+  .catégorie_sous-catégorie { 
+    display: inline;
+    margin-left: 23px;
+  }
+
+  .nom_sous-catégorie {
+    display: inline;
+    margin: 1rem;
   }
 
   /* .instagram {
