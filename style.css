@@ -11,12 +11,7 @@ body {
   padding: 1rem;
   
 }
-.icone-module1 {
-  display: inline;
-  padding: 1rem;
-  
-  
-}
+
 
 .Icon {
     background-color:  black;
@@ -49,24 +44,63 @@ body {
   }
 
   .icones_groupe {
-    margin-top: 4rem;  
+    padding: 1rem;  
   }
 
-  .espacement_module {
-  margin-top: 0rem;  
-  }
-  .catégorie { 
-    display: inline;
+  .br{
+    margin: 0px;
   }
   
-  .catégorie_sous-catégorie { 
-    display: inline;
-    margin-left: 1rem;
+  .Description {
+    margin: 10px;
   }
 
-  .o {
-    vertical-align: baseline;
-  margin: 1rem;
+  .Hastag {
+    margin: 5px;
+  }  
+  
+  .Heure {
+    margin: 12px;
+  }  
+  
+  .Commentaire {
+    margin: 4px;
+  }  
+  
+
+  .Filtres {
+    margin: 55px;
+  }  
+  
+  .Partage {
+    margin: -20px;
+  }  
+  
+  .Musique {
+    margin: 3px;
+  }  
+  
+  .Lien {
+    margin: 37px;
+  }  
+  
+  .Partenaria {
+    margin: -3px;
+  }  
+  
+  .catégorie { 
+    display: inline;
+    margin: 3%;
+  }
+
+  .catégorie_sous-catégorie { 
+    display: inline;
+    margin-left: 23px;
+  }
+
+  .nom_sous-catégorie {
+    display: inline;
+    margin: 1rem;
   }
 
   /* .instagram {
@@ -139,37 +173,25 @@ body {
   }
   
   .menu {
+      position: fixed;
       display: flex;
       flex-grow: 1;
       height: 72px;
-      max-width: 370px;
+      width: 90vw;
       border-radius: 12px;
       overflow: hidden;
       background-color: #d6ef43;
       box-shadow: 0 0 1px 0 rgba(#342ead, 0.25), 0 15px 30px 0 rgba(#342ead, 0.1);
   }
   
- /*  .menu-item {
+  .menu-item {
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       flex-grow: 1;
-      text-decoration: none;
-      &:focus,
-      &:hover {
-          outline: none;
-          .material-icons {
-              font-family: "Material Icons";
-              color: #342ead;
-          }
-  
-          .menu-item-label {
-              color: #342ead;
-            
-          }
-      }
-  }*/
+      text-decoration: none; 
+  }
   
   .material-icons {
       font-family: "Material Icons Outlined";
@@ -185,5 +207,9 @@ body {
       font-size: 13px;
       color: mix(#fff, #342ead, 70%);
       transition: 0.25s ease;
+  }
+
+  .grid-container {
+    display: block;
   }
   
