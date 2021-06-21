@@ -331,3 +331,8 @@ p {
     display: block;
   }
   
+  #bloc
+{
+width: 50%;
+background-color: lightgray;
+}
