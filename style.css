@@ -151,62 +151,60 @@ body {
   *,
   *:after,
   *:before {
-      box-sizing: border-box;
+    box-sizing: border-box;
   }
+  
   
   .container {
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      width: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+    position: absolute;
+    top: 762;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
+  
   body {
-      font-family: "Inter", sans-serif;
-      color: #303030;
-      background-color: mix(#d6ef43, #342ead, 95%);
+    color: #303030;
+    background-color: mix(#fff, #342ead, 95%);
   }
   
   .menu {
-      position: fixed;
-      display: flex;
-      flex-grow: 1;
-      height: 72px;
-      width: 90vw;
-      border-radius: 12px;
-      overflow: hidden;
-      background-color: #d6ef43;
-      box-shadow: 0 0 1px 0 rgba(#342ead, 0.25), 0 15px 30px 0 rgba(#342ead, 0.1);
+    display: flex;
+    flex-grow: 1;
+    height: 50px;
+    max-width: 375px;
+    border-radius: 0px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0px 5px 20px #999;
   }
   
   .menu-item {
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      flex-grow: 1;
-      text-decoration: none; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    }
+  
+  .social-icons {
+    display: block;
+    margin-bottom: 5px;
+    color: mix(#fff, #342ead, 60%);
+    transition: 0.25s ease;
   }
   
-  .material-icons {
-      font-family: "Material Icons Outlined";
-      display: block;
-      margin-bottom: 4px;
-      font-size: 26px;
-      color: mix(#fff, #342ead, 60%);
-      transition: 0.25s ease;
-  }
-  
-  .menu-item-label {
-      display: block;
-      font-size: 13px;
-      color: mix(#fff, #342ead, 70%);
-      transition: 0.25s ease;
+  .social-icons ul {
+    
+    display: inline-block;
+    margin: 0.15em;
+    position: relative;
+    font-size: 1.7em;
   }
 
   .grid-container {
