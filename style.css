@@ -176,10 +176,6 @@ p {
       background-color: mix(#d6ef43, #342ead, 95%);
   }
  
-
-   
-
-  
   .box_contenu {
    display: inline-block;
    width: 100%;
@@ -295,24 +291,27 @@ p {
   color: rgb(85, 85, 85);
 }
 
-  .menu2 {
+  .menu2 {}
+  .menu {
+      position: fixed;
       display: flex;
       flex-grow: 1;
       height: 72px;
-      max-width: 370px;
+      width: 90vw;
       border-radius: 12px;
       overflow: hidden;
       background-color: #d6ef43;
       box-shadow: 0 0 1px 0 rgba(#342ead, 0.25), 0 15px 30px 0 rgba(#342ead, 0.1);
   }
   
- /* .menu-item {
+  .menu-item {
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
       flex-grow: 1;
       text-decoration: none;
+      /*
       &:focus,
       &:hover {
           outline: none;
@@ -323,10 +322,10 @@ p {
   
           .menu-item-label {
               color: #342ead;
-            
           }
       }
-  }*/
+      */
+  }
   
   .material-icons {
       font-family: "Material Icons Outlined";
@@ -342,5 +341,9 @@ p {
       font-size: 13px;
       color: mix(#fff, #342ead, 70%);
       transition: 0.25s ease;
+  }
+
+  .grid-container {
+    display: block;
   }
   
